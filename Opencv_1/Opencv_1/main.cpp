@@ -64,7 +64,6 @@ Mat find_draw() {
 	Mat ret;
 	cvtColor(table, ret, COLOR_GRAY2RGB);
 	int diff[4][4];
-	int match[4];
 
 	// sum differences of the histograms
 	for (int i = 0; i < 4; i++) {
