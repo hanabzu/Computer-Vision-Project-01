@@ -1,0 +1,29 @@
+﻿  main.cpp
+C:\Users\han\source\repos\Opencv_1\Opencv_1\main.cpp(34,62): warning C4244: '인수': 'double'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\han\source\repos\Opencv_1\Opencv_1\main.cpp(34,42): warning C4244: '인수': 'double'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\han\source\repos\Opencv_1\Opencv_1\main.cpp(35,62): warning C4244: '인수': 'double'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\han\source\repos\Opencv_1\Opencv_1\main.cpp(35,42): warning C4244: '인수': 'double'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\han\source\repos\Opencv_1\Opencv_1\main.cpp(68,27): warning C4244: '=': '_Tp'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=double
+          ]
+C:\Users\han\source\repos\Opencv_1\Opencv_1\main.cpp(75,50): warning C4244: '=': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\han\source\repos\Opencv_1\Opencv_1\main.cpp(64,6): warning C4101: 'match' :참조되지 않은 지역 변수입니다.
+  Opencv_1.vcxproj -> C:\Users\han\source\repos\Opencv_1\x64\Debug\Opencv_1.exe

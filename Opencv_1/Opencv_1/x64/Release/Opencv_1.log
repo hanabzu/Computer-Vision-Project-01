@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(1092,5): error MSB6006: "link.exe"이(가) 종료되었습니다(코드: 1120).
+main.obj : error LNK2001: 확인할 수 없는 외부 기호 "void __cdecl cv::imshow(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,class cv::_InputArray const &)" (?imshow@cv@@YAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEBV_InputArray@1@@Z)
+C:\Users\han\source\repos\Opencv_1\x64\Release\Opencv_1.exe : fatal error LNK1120: 1개의 확인할 수 없는 외부 참조입니다.
